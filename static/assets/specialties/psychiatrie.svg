@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Psychiatrie">
+<defs><radialGradient id="g" cx="35%" cy="30%"><stop stop-color="#C39BFF" stop-opacity=".95"/><stop offset="1" stop-color="#C39BFF" stop-opacity=".12"/></radialGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08161C"/><stop offset="1" stop-color="#10262D"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="22"/></filter></defs>
+<rect width="420" height="420" rx="42" fill="url(#bg)"/><circle cx="105" cy="92" r="110" fill="url(#g)" filter="url(#blur)"/><circle cx="330" cy="335" r="120" fill="#C39BFF" opacity=".08"/>
+<path d="M35 330C125 270 250 385 390 285" fill="none" stroke="#C39BFF" stroke-opacity=".13" stroke-width="2"/><path d="M25 110C135 160 250 40 405 105" fill="none" stroke="white" stroke-opacity=".05"/>
+<g fill="none" stroke="#C39BFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".96"><path d="M166 150c-34-19-63 18-44 46-31 9-27 53 5 58-13 33 28 55 54 31 21 30 61 15 59-17V170c0-30-39-43-74-20Zm88 0c35-19 64 18 45 46 31 9 27 53-5 58 13 33-28 55-54 31-21 30-61 15-59-17V170c0-30 39-43 73-20Z"/><path d="M176 210c16-11 34-11 50 0M194 257c10-8 22-8 32 0"/></g>
+<g fill="#C39BFF" opacity=".9"><circle cx="55" cy="65" r="4"/><circle cx="365" cy="74" r="3"/><circle cx="342" cy="355" r="5"/></g>
+<text x="32" y="382" fill="white" fill-opacity=".72" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">MEDSPACE • PSYCHIATRIE</text>
+</svg>

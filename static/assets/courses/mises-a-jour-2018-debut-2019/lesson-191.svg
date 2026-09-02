@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d282e"/><stop offset="1" stop-color="#343f45"/></linearGradient><radialGradient id="glow"><stop stop-color="#A6B2B7" stop-opacity=".30"/><stop offset="1" stop-color="#A6B2B7" stop-opacity="0"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="24"/></filter></defs>
+<rect width="800" height="500" rx="42" fill="url(#bg)"/><circle cx="331" cy="220" r="171" fill="url(#glow)" filter="url(#blur)"/><circle cx="640" cy="90" r="124" fill="#A6B2B7" opacity=".08"/>
+<g opacity=".13" stroke="#c5cdd0" stroke-width="1"><path d="M0 100H800M0 200H800M0 300H800M0 400H800"/><path d="M100 0V500M200 0V500M300 0V500M400 0V500M500 0V500M600 0V500M700 0V500"/></g>
+<g transform="rotate(144 400 250)" opacity=".98"><circle cx="400" cy="250" r="105" fill="none" stroke="#A6B2B7" stroke-width="15"/><path d="M400 100v300M250 250h300" stroke="#c5cdd0" stroke-width="8" stroke-linecap="round"/></g>
+<circle cx="82" cy="74" r="7" fill="#A6B2B7"/><text x="105" y="82" fill="#c5cdd0" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">MEDSPACE • MISES À JOUR 2018-DÉBUT 2019</text>
+<text x="700" y="448" fill="#c5cdd0" opacity=".55" font-family="Arial,sans-serif" font-size="14" text-anchor="end">MEDICAL STUDY VISUAL</text>
+</svg>

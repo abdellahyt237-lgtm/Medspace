@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2a2822"/><stop offset="1" stop-color="#4c3d2d"/></linearGradient><radialGradient id="glow"><stop stop-color="#FFAD62" stop-opacity=".30"/><stop offset="1" stop-color="#FFAD62" stop-opacity="0"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="24"/></filter></defs>
+<rect width="800" height="500" rx="42" fill="url(#bg)"/><circle cx="364" cy="334" r="203" fill="url(#glow)" filter="url(#blur)"/><circle cx="640" cy="90" r="105" fill="#FFAD62" opacity=".08"/>
+<g opacity=".13" stroke="#ffca99" stroke-width="1"><path d="M0 100H800M0 200H800M0 300H800M0 400H800"/><path d="M100 0V500M200 0V500M300 0V500M400 0V500M500 0V500M600 0V500M700 0V500"/></g>
+<g transform="rotate(83 400 250)" opacity=".98"><path d="M370 145v75c0 30 19 47 50 53 61 12 94 49 94 104 0 38-32 63-70 63-76 0-129-50-129-126v-75c0-39 14-68 55-94Z" fill="none" stroke="#FFAD62" stroke-width="15"/><path d="M370 220c45 20 57 51 44 91" stroke="#ffca99" stroke-width="8" fill="none" stroke-linecap="round"/></g>
+<circle cx="82" cy="74" r="7" fill="#FFAD62"/><text x="105" y="82" fill="#ffca99" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">MEDSPACE • HÉPATO - GASTROLOGIE</text>
+<text x="700" y="448" fill="#ffca99" opacity=".55" font-family="Arial,sans-serif" font-size="14" text-anchor="end">MEDICAL STUDY VISUAL</text>
+</svg>

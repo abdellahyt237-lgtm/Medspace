@@ -1,0 +1,263 @@
+[
+  {
+    "id": "anesthesie",
+    "name": "Anesthésie",
+    "theme": "slate",
+    "accent": "#9DB7C4",
+    "image": "/static/assets/specialties/anesthesie.svg",
+    "alt": "Illustration médicale de Anesthésie",
+    "kind": "airway"
+  },
+  {
+    "id": "cancerologie",
+    "name": "Cancérologie",
+    "theme": "crimson",
+    "accent": "#ED5271",
+    "image": "/static/assets/specialties/cancerologie.svg",
+    "alt": "Illustration médicale de Cancérologie",
+    "kind": "cell"
+  },
+  {
+    "id": "cardiologie",
+    "name": "Cardiologie",
+    "theme": "coral",
+    "accent": "#FF7D88",
+    "image": "/static/assets/specialties/cardiologie.svg",
+    "alt": "Illustration médicale de Cardiologie",
+    "kind": "heart"
+  },
+  {
+    "id": "cmf-orl",
+    "name": "CMF ORL",
+    "theme": "indigo",
+    "accent": "#7D8CFF",
+    "image": "/static/assets/specialties/cmf-orl.svg",
+    "alt": "Illustration médicale de CMF ORL",
+    "kind": "ent"
+  },
+  {
+    "id": "dermatologie",
+    "name": "Dermatologie",
+    "theme": "sun",
+    "accent": "#F3CA54",
+    "image": "/static/assets/specialties/dermatologie.svg",
+    "alt": "Illustration médicale de Dermatologie",
+    "kind": "skin"
+  },
+  {
+    "id": "douleur-soins-palliatifs",
+    "name": "Douleur - Soins palliatifs",
+    "theme": "plum",
+    "accent": "#D47AB5",
+    "image": "/static/assets/specialties/douleur-soins-palliatifs.svg",
+    "alt": "Illustration médicale de Douleur - Soins palliatifs",
+    "kind": "care"
+  },
+  {
+    "id": "endocrinologie",
+    "name": "Endocrinologie",
+    "theme": "amber",
+    "accent": "#F2A94A",
+    "image": "/static/assets/specialties/endocrinologie.svg",
+    "alt": "Illustration médicale de Endocrinologie",
+    "kind": "thyroid"
+  },
+  {
+    "id": "geriatrie",
+    "name": "Gériatrie",
+    "theme": "gold",
+    "accent": "#E8C35B",
+    "image": "/static/assets/specialties/geriatrie.svg",
+    "alt": "Illustration médicale de Gériatrie",
+    "kind": "elder"
+  },
+  {
+    "id": "gynecologie",
+    "name": "Gynécologie",
+    "theme": "rose",
+    "accent": "#FF7FA8",
+    "image": "/static/assets/specialties/gynecologie.svg",
+    "alt": "Illustration médicale de Gynécologie",
+    "kind": "female"
+  },
+  {
+    "id": "hematologie",
+    "name": "Hématologie",
+    "theme": "ruby",
+    "accent": "#F45E7C",
+    "image": "/static/assets/specialties/hematologie.svg",
+    "alt": "Illustration médicale de Hématologie",
+    "kind": "blood"
+  },
+  {
+    "id": "hepato-gastrologie",
+    "name": "Hépato - Gastrologie",
+    "theme": "orange",
+    "accent": "#FFAD62",
+    "image": "/static/assets/specialties/hepato-gastrologie.svg",
+    "alt": "Illustration médicale de Hépato - Gastrologie",
+    "kind": "stomach"
+  },
+  {
+    "id": "maladie-infectieuse",
+    "name": "Maladie infectieuse",
+    "theme": "lime",
+    "accent": "#9BD35B",
+    "image": "/static/assets/specialties/maladie-infectieuse.svg",
+    "alt": "Illustration médicale de Maladie infectieuse",
+    "kind": "virus"
+  },
+  {
+    "id": "medecine-du-travail",
+    "name": "Médecine du travail",
+    "theme": "steel",
+    "accent": "#7FA9C0",
+    "image": "/static/assets/specialties/medecine-du-travail.svg",
+    "alt": "Illustration médicale de Médecine du travail",
+    "kind": "work"
+  },
+  {
+    "id": "medecine-interne",
+    "name": "Médecine interne",
+    "theme": "navy",
+    "accent": "#7198FF",
+    "image": "/static/assets/specialties/medecine-interne.svg",
+    "alt": "Illustration médicale de Médecine interne",
+    "kind": "internal"
+  },
+  {
+    "id": "mises-a-jour-2018-debut-2019",
+    "name": "Mises à jour 2018-Début 2019",
+    "theme": "gray",
+    "accent": "#A6B2B7",
+    "image": "/static/assets/specialties/mises-a-jour-2018-debut-2019.svg",
+    "alt": "Illustration médicale de Mises à jour 2018-Début 2019",
+    "kind": "update"
+  },
+  {
+    "id": "mpr",
+    "name": "MPR",
+    "theme": "mint",
+    "accent": "#65E7BC",
+    "image": "/static/assets/specialties/mpr.svg",
+    "alt": "Illustration médicale de MPR",
+    "kind": "rehab"
+  },
+  {
+    "id": "nephrologie",
+    "name": "Néphrologie",
+    "theme": "cyan",
+    "accent": "#53E1E0",
+    "image": "/static/assets/specialties/nephrologie.svg",
+    "alt": "Illustration médicale de Néphrologie",
+    "kind": "kidney"
+  },
+  {
+    "id": "neurologie",
+    "name": "Neurologie",
+    "theme": "violet",
+    "accent": "#A987FF",
+    "image": "/static/assets/specialties/neurologie.svg",
+    "alt": "Illustration médicale de Neurologie",
+    "kind": "brain"
+  },
+  {
+    "id": "nutrition",
+    "name": "Nutrition",
+    "theme": "green",
+    "accent": "#5BCF8A",
+    "image": "/static/assets/specialties/nutrition.svg",
+    "alt": "Illustration médicale de Nutrition",
+    "kind": "nutrition"
+  },
+  {
+    "id": "ophtalmologie",
+    "name": "Ophtalmologie",
+    "theme": "blue",
+    "accent": "#5D9DFF",
+    "image": "/static/assets/specialties/ophtalmologie.svg",
+    "alt": "Illustration médicale de Ophtalmologie",
+    "kind": "eye"
+  },
+  {
+    "id": "orthopedie",
+    "name": "Orthopédie",
+    "theme": "teal",
+    "accent": "#48D4B8",
+    "image": "/static/assets/specialties/orthopedie.svg",
+    "alt": "Illustration médicale de Orthopédie",
+    "kind": "bone"
+  },
+  {
+    "id": "pediatrie",
+    "name": "Pédiatrie",
+    "theme": "mint",
+    "accent": "#65E7BC",
+    "image": "/static/assets/specialties/pediatrie.svg",
+    "alt": "Illustration médicale de Pédiatrie",
+    "kind": "child"
+  },
+  {
+    "id": "pharmacologie",
+    "name": "Pharmacologie",
+    "theme": "purple",
+    "accent": "#B56CFF",
+    "image": "/static/assets/specialties/pharmacologie.svg",
+    "alt": "Illustration médicale de Pharmacologie",
+    "kind": "pill"
+  },
+  {
+    "id": "pneumologie",
+    "name": "Pneumologie",
+    "theme": "sky",
+    "accent": "#66C9FF",
+    "image": "/static/assets/specialties/pneumologie.svg",
+    "alt": "Illustration médicale de Pneumologie",
+    "kind": "lungs"
+  },
+  {
+    "id": "psychiatrie",
+    "name": "Psychiatrie",
+    "theme": "lavender",
+    "accent": "#C39BFF",
+    "image": "/static/assets/specialties/psychiatrie.svg",
+    "alt": "Illustration médicale de Psychiatrie",
+    "kind": "psyche"
+  },
+  {
+    "id": "rhumatologie",
+    "name": "Rhumatologie",
+    "theme": "teal",
+    "accent": "#48D4B8",
+    "image": "/static/assets/specialties/rhumatologie.svg",
+    "alt": "Illustration médicale de Rhumatologie",
+    "kind": "joint"
+  },
+  {
+    "id": "sante-publique",
+    "name": "Santé publique",
+    "theme": "aqua",
+    "accent": "#58D8D4",
+    "image": "/static/assets/specialties/sante-publique.svg",
+    "alt": "Illustration médicale de Santé publique",
+    "kind": "public"
+  },
+  {
+    "id": "urgence-reanimation",
+    "name": "Urgence - Réanimation",
+    "theme": "red",
+    "accent": "#FF6868",
+    "image": "/static/assets/specialties/urgence-reanimation.svg",
+    "alt": "Illustration médicale de Urgence - Réanimation",
+    "kind": "emergency"
+  },
+  {
+    "id": "urologie",
+    "name": "Urologie",
+    "theme": "indigo",
+    "accent": "#7D8CFF",
+    "image": "/static/assets/specialties/urologie.svg",
+    "alt": "Illustration médicale de Urologie",
+    "kind": "bladder"
+  }
+]
